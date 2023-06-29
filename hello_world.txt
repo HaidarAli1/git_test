@@ -1,0 +1,1 @@
+This is random text, used to test the GIT Staging process through Bash Terminal.
